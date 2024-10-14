@@ -57,6 +57,12 @@ body {
     background-color: #e0e0e0;
 }
 
+.header-container {
+    display: flex;
+    padding: 5px;
+    background-color: #008000;
+}
+
 #userInput {
     flex: 1;
     padding: 10px;
